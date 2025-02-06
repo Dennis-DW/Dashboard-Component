@@ -15,7 +15,7 @@ This is a React application that uses Tailwind CSS for styling and displays a KP
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/my-app.git
+   git clone https://github.com/Dennis-DW/Dashboard-Component.git
    cd my-app
    ```
 
@@ -95,6 +95,5 @@ Ensure that Tailwind CSS is included in your main CSS file (e.g., `src/index.css
 ## License
 
 This project is licensed under the MIT License.
-```
 
 
